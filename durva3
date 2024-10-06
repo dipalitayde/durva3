@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <title> html Tables</title>
+    </head>
+    <body>
+        <h1><mark>🟣8 wonders of the world🌟</mark></h1>
+        <h2><i><mark>There are total 8 wonders are in the world🔴🔴🔴🔴🔴🔴🔴</mark></i></h2>
+        <table border="9" bgcolor="orange" bordercolor="purple">
+            <tr>
+                <th bgcolor="red" border="20">wonders</th>
+                <th bgcolor="red">country</th>
+                <th bgcolor="red">cities</th>
+            </tr>
+            <tr>
+                <td><ul><li>The great wall of china</li></ul></td>
+                <td>China</td>
+                <td>Bejing</td>
+
+            </tr>
+            <tr>
+                <td><ul><li>petra</li></ul></td>
+                <td>Jordan</td>
+                <td>Maan</td>
+            </tr>
+            <tr>
+                <td><ul><li>christ the redeemer</li></ul></td>
+                <td>Brazil</td>
+                <td>Rio de Janeiro</td>
+            </tr>
+            <tr>
+                <td><ul><li>macchu picchu</li></ul></td>
+                <td>Peru</td>
+                <td>Urubamba Province</td>
+
+            </tr>
+            <tr>
+                <td><ul><li>Taj mahal</li></ul></td>
+                <td>India</td>
+                <td>Agra</td>
+            </tr>
+            <tr>
+                <td><ul><li>Colosseum:</li></ul></td>
+                <td>Italy</td>
+                <td>Rome</td>
+            </tr>
+            <tr>
+                <td><ul><li>Chichen Itza</li></ul></td>
+                <td>Mexico</td>
+                <td>Tinum</td>
+            </tr>
+            <tr>
+                <td><ul><li>Great pyramid of Giza</li></ul></td>
+                <td>Egypt</td>
+                <td>Giza</td>
+            </tr>
+        </table>
+        
+    </body>
+</html>
